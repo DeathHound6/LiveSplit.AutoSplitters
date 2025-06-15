@@ -2,6 +2,52 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Confronted</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Confronted/Confronted.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lumina Rush</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/balbert65045/Autosplitters/refs/heads/master/LuminaRush/LuminaRush.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Starting and Auto-Splitting Made By balbert65045</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Joyland: Chapter 1</Game>
+            <Game>Joyland</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/Joyland.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Auto-Splitting &amp; Load Removal (By Arkhamfan69)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Out of Sight (2025)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.OutofSight.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/OutofSight.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Streetbackguy and Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>PaperKlay</Game>
         </Games>
         <URLs>
@@ -20136,6 +20182,7 @@
             <Game>Armored Core 6</Game>
             <Game>Armored Core VI: Fires of Rubicon</Game>
             <Game>Bloodborne</Game>
+            <Game>Elden Ring Nightreign</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
@@ -22699,7 +22746,7 @@
             <URL>https://raw.githubusercontent.com/OwlLukas/Components/main/ObsCure%20(2004)%20AutoSplitter/ObsCure.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter is available. (By OwlLukas)</Description>
+        <Description>Load removal and auto-splitting are available. (By OwlLukas)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -24568,6 +24615,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Fire Tonight</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_FireTonight.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c2/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and LRT by blazie (using ASL Help by Ero)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Divinity: Original Sin Enhanced Edition</Game>
         </Games>
         <URLs>
@@ -26088,7 +26146,7 @@
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
-        <Description>Configurable Autostarter and Autosplitter for the Pixel Remaster Steam version. (by knutwalker)</Description>
+        <Description>Configurable Autostarter and Autosplitter for the Pixel Remaster (by knutwalker)</Description>
         <Website>https://github.com/knutwalker/ff1pr-autosplitter#readme</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -26182,5 +26240,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting available (by Biksel)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Echoes of YI : Samsara</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/to-miz/autosplitters/refs/heads/main/EchoesOfYi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal available (by to-miz)</Description>
     </AutoSplitter>
 </AutoSplitters>
